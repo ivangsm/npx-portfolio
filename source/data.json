@@ -1,10 +1,10 @@
 {
-	"fullName": "",
-	"age": "",
-	"hobbies": [],
-	"githubProfile": "",
-	"twitterProfile": "",
-	"youtubeChannel": "",
-	"blog": "",
-	"emailId": ""
+    "fullName": "Iván Salazar",
+    "age": "26",
+    "hobbies": ["Music", "Chess", "Bicycling"],
+    "githubProfile": "https://github.com/ivangsm",
+    "twitterProfile": "https://twitter.com/ivangsm_",
+    "linkedinProfile": "https://www.linkedin.com/in/ivangsm/",
+    "blog": "https://blog.ivansalazar.dev",
+    "email": "me@ivansalazar.dev"
 }
